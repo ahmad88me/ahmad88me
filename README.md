@@ -4,7 +4,7 @@
 
 ## Research and Development
 
-### Artificial Intelligence | Semantic Web | Data Science | 
+### Artificial Intelligence | Semantic Web | Data Science | Open Source
 
 ### Hi there 👋
 
