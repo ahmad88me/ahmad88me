@@ -14,11 +14,11 @@
   <a href="https://leetcode.com/ahmad88me/">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
 
-<br>
+
 
 
 ## Tech Stack
-<p al>
+<p >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="60px" width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60px" width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60px" width="60px"/>
@@ -54,8 +54,7 @@
 ## Contribution Graph
 
 [![Ahmad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmad88me&bg_color=1F222E&color=9FADBD&line=4da5e7&point=F8D866&area=true&hide_border=true)](https://github.com/ahmad88me)
-  d0deed
-F8D866
+
 
 
 <!--
