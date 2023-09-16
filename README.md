@@ -18,7 +18,7 @@
 
 
 ## Tech Stack
-<p >
+<p al>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="60px" width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60px" width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60px" width="60px"/>
@@ -42,11 +42,20 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="60px" width="60px"/>
 </p>
 
+# GitHub Stats
+<p align="center">
+  <a href="https://github.com/ahmad88me"><img alt="Ahmad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmad88me&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4da5e7&rank_icon=github&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/ahmad88me"><img alt="Ahmad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad88me&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4da5e7&icon_color=F8D866&hide=HTML,Jupyter%20Notebook" height="192px"/></a>
+
+  <br/>
+</p>
+
+
 ## Contribution Graph
 
-[![Ahmad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmad88me&bg_color=1F222E&color=9FADBD&line=4da5e7&point=d0deed&area=true&hide_border=true)](https://github.com/ahmad88me)
-  
-
+[![Ahmad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmad88me&bg_color=1F222E&color=9FADBD&line=4da5e7&point=F8D866&area=true&hide_border=true)](https://github.com/ahmad88me)
+  d0deed
+F8D866
 
 
 <!--
