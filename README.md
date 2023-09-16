@@ -18,6 +18,7 @@
 
 
 ## Tech Stack
+<p >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="60px" width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60px" width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60px" width="60px"/>
@@ -39,6 +40,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="60px" width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="60px" width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="60px" width="60px"/>
+</p>
 
 ## Contribution Graph
 
