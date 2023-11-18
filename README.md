@@ -75,18 +75,33 @@ Here are some ideas to get you started:
 -->
 
 
-## Contributions to opensource
+## Contributions to Open Source
 * [PyGithub](https://github.com/PyGithub/PyGithub)
 * [django-cities-light](https://github.com/yourlabs/django-cities-light)
 * [GetOptPP](https://github.com/ahmad88me/getoptpp)
+* [morph-graphql](https://github.com/oeg-upm/morph-graphql).
+* [Devos](https://github.com/oeg-upm/Devos). A visual summarizer of ontologies.
 
-## Side opensource projects, libraries, and Snippets
+## Side open source projects, libraries, and snippets
+* [tada-qq](https://github.com/oeg-upm/tada-qq): Tabular Data Annotator using qq plot to annotate numeric columns.
+* [ttla](https://github.com/oeg-upm/ttla): TTLA. Automatic Tabular Data annotator using the Typology and fuzzy clustering.
+* [pcake](https://github.com/oeg-upm/pcake): Plot and compare the distribution of samples and numeric properties in knowledge graphs graphically.
+* [tada-api](https://github.com/oeg-upm/tada-api). Tabular Data Annotator API. 
+* [Morph-OME](https://github.com/oeg-upm/Morph-OME). A platform to automatically detect the meaning of data in tabular format and transform them to RDF.
+* [tada-hdt-entity](https://github.com/oeg-upm/tada-hdt-entity). Automatic labelling of tabular data using HDT as the training set.
+* [pytada-hdt-entity](https://github.com/oeg-upm/pytada-hdt-entity). A python wrapper for the c++ library tada-hdt-entity.
+* [Jarsomatic](https://github.com/oeg-upm/Jarsomatic). Update the vocabularies list using Vocab.
+* [easysparql](https://github.com/oeg-upm/easysparql). Conceptualise common Sparql queries with rdflib.
+* [tada-entity](https://github.com/oeg-upm/tada-entity). Automatic Tabular Data Annotator focusing on entity columns in tabular data.
+* [fuzzy-c-means](https://github.com/oeg-upm/fuzzy-c-means): A python implementation for the fuzzy c-means algorithm by James Bezdek.
 * [Grouped Histogram](https://github.com/ahmad88me/grouped-histogram): A snippet to generate a grouped histograms for pandas
 * [configparser-list](https://github.com/ahmad88me/configparser-list): An extension to configparser to support lists
 * [tabular-parser](https://github.com/ahmad88me/tabular-parser): A c++ library to parse and transpose tables e.g., CSV, TSV, ... 
 * [stiqueue](https://github.com/ahmad88me/stiqueue): Native python queue created as an alternative to RabbitMQ.
 * [fcm-cpp](https://github.com/oeg-upm/fcm-cpp): A fuzzy clustering library written in c++.
-* [django-rest-gen](https://github.com/ahmad88me/django-rest-gen): Generates APIs (code) from models only using Django Rest Framework.
+* [django-rest-gen](https://github.com/ahmad88me/django-rest-gen). Generates APIs (code) from models only using Django Rest Framework.
+* [TPool](https://github.com/oeg-upm/TPool). A Thread Pool library to manage threads in a pool, execute and manage them. 
+* [tada-hdt-numeric](https://github.com/oeg-upm/tada-hdt-numeric). Annotate numeric columns in tabular data using HDT as the training set.
 <!--
 * [outlinejs](https://github.com/ahmad88me/outlinejs): A simple javascript to draw an outline/workflow indicator.
 * [brightness-tk](https://github.com/ahmad88me/brightness-tk): A Tkinter snippet to control screen brightness.
