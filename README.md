@@ -73,3 +73,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Contributions to opensource
+* [PyGithub](https://github.com/PyGithub/PyGithub)
+* [django-cities-light](https://github.com/yourlabs/django-cities-light)
+* [GetOptPP](https://github.com/ahmad88me/getoptpp)
+
+## Side opensource projects, libraries, and Snippets
+* [Grouped Histogram](https://github.com/ahmad88me/grouped-histogram): A snippet to generate a grouped histograms for pandas
+* [configparser-list](https://github.com/ahmad88me/configparser-list): An extension to configparser to support lists
+* [tabular-parser](https://github.com/ahmad88me/tabular-parser): A c++ library to parse and transpose tables e.g., CSV, TSV, ... 
+* [stiqueue](https://github.com/ahmad88me/stiqueue): Native python queue created as an alternative to RabbitMQ.
+* [fcm-cpp](https://github.com/oeg-upm/fcm-cpp): A fuzzy clustering library written in c++.
+* [django-rest-gen](https://github.com/ahmad88me/django-rest-gen): Generates APIs (code) from models only using Django Rest Framework.
+<!--
+* [outlinejs](https://github.com/ahmad88me/outlinejs): A simple javascript to draw an outline/workflow indicator.
+* [brightness-tk](https://github.com/ahmad88me/brightness-tk): A Tkinter snippet to control screen brightness.
+-->
+
