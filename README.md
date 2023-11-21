@@ -81,6 +81,7 @@ Here are some ideas to get you started:
 ## Contributions to Open Source
 * [PyGithub](https://github.com/PyGithub/PyGithub)
 * [django-cities-light](https://github.com/yourlabs/django-cities-light)
+* [django-extensions](https://github.com/django-extensions/django-extensions)
 * [GetOptPP](https://github.com/ahmad88me/getoptpp)
 * [morph-graphql](https://github.com/oeg-upm/morph-graphql).
 * [Devos](https://github.com/oeg-upm/Devos). A visual summarizer of ontologies.
