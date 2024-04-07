@@ -79,13 +79,14 @@ Here are some ideas to get you started:
 
 
 ## Contributions to Open Source
-* [PyGithub](https://github.com/PyGithub/PyGithub)
-* [django-cities-light](https://github.com/yourlabs/django-cities-light)
-* [django-extensions](https://github.com/django-extensions/django-extensions)
-* [GetOptPP](https://github.com/ahmad88me/getoptpp)
-* [morph-graphql](https://github.com/oeg-upm/morph-graphql).
+* [PyGithub](https://github.com/PyGithub/PyGithub). GitHub APIs
+* [django-cities-light](https://github.com/yourlabs/django-cities-light). A light Django package based on django-cities.
+* [django-extensions](https://github.com/django-extensions/django-extensions). Django extensions.
+* [GetOptPP](https://github.com/ahmad88me/getoptpp). Commandline helper.
+* [morph-graphql](https://github.com/oeg-upm/morph-graphql). Generate GraphQL middle layer using R2RML Mappings.
 * [Devos](https://github.com/oeg-upm/Devos). A visual summarizer of ontologies.
 * [Kandinsky-2](https://github.com/ai-forever/Kandinsky-2). Powerful Image Encoder.
+* [backgroundremover](https://github.com/nadermx/backgroundremover). Background Remover.
 
 ## Side open source projects, libraries, and snippets
 * [tada-qq](https://github.com/oeg-upm/tada-qq): Tabular Data Annotator using qq plot to annotate numeric columns.
