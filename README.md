@@ -87,6 +87,7 @@ Here are some ideas to get you started:
 * [Devos](https://github.com/oeg-upm/Devos). A visual summarizer of ontologies.
 * [Kandinsky-2](https://github.com/ai-forever/Kandinsky-2). Powerful Image Encoder.
 * [backgroundremover](https://github.com/nadermx/backgroundremover). Background Remover.
+* [Jekyll-Podcaster](https://github.com/PandaSekh/Jekyll-Podcaster). Jekyll Theme.
 
 ## Side open source projects, libraries, and snippets
 * [tada-qq](https://github.com/oeg-upm/tada-qq): Tabular Data Annotator using qq plot to annotate numeric columns.
