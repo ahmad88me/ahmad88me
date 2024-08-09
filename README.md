@@ -109,6 +109,7 @@ Here are some ideas to get you started:
 * [django-rest-gen](https://github.com/ahmad88me/django-rest-gen). Generates APIs (code) from models only using Django Rest Framework.
 * [TPool](https://github.com/oeg-upm/TPool). A Thread Pool library to manage threads in a pool, execute and manage them. 
 * [tada-hdt-numeric](https://github.com/oeg-upm/tada-hdt-numeric). Annotate numeric columns in tabular data using HDT as the training set.
+* [sphinx_example_includer](https://github.com/ahmad88me/sphinx_example_includer). Automatically include examples source code into Sphinx documentation.
 <!--
 * [outlinejs](https://github.com/ahmad88me/outlinejs): A simple javascript to draw an outline/workflow indicator.
 * [brightness-tk](https://github.com/ahmad88me/brightness-tk): A Tkinter snippet to control screen brightness.
