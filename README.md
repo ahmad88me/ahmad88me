@@ -42,6 +42,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="60px" width="60px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60px" width="60px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" height="60px" width="60px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="60px" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60px" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="60px" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg" height="60px" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="60px" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="60px" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" height="60px" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original-wordmark.svg" height="60px" width="60px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="60px" width="60px" />
 
 </p>
 
@@ -88,7 +97,6 @@ Here are some ideas to get you started:
 * [Kandinsky-2](https://github.com/ai-forever/Kandinsky-2). Powerful Image Encoder.
 * [backgroundremover](https://github.com/nadermx/backgroundremover). Background Remover.
 * [Jekyll-Podcaster](https://github.com/PandaSekh/Jekyll-Podcaster). Jekyll Theme.
-* [sphinx-notes/pages](https://github.com/sphinx-notes/pages). Sphinx docs generator github action.
 
 
 ## Side open source projects, libraries, and snippets
@@ -112,6 +120,7 @@ Here are some ideas to get you started:
 * [TPool](https://github.com/oeg-upm/TPool). A Thread Pool library to manage threads in a pool, execute and manage them. 
 * [tada-hdt-numeric](https://github.com/oeg-upm/tada-hdt-numeric). Annotate numeric columns in tabular data using HDT as the training set.
 * [sphinx_example_includer](https://github.com/ahmad88me/sphinx_example_includer). Automatically include examples source code into Sphinx documentation.
+* [sphinx-doc-action](https://github.com/ahmad88me/sphinx-docs-action). Sphinx docs generator action. You can also find it in [GitHub Marketplace](https://github.com/marketplace/actions/sphinx-docs).
 <!--
 * [outlinejs](https://github.com/ahmad88me/outlinejs): A simple javascript to draw an outline/workflow indicator.
 * [brightness-tk](https://github.com/ahmad88me/brightness-tk): A Tkinter snippet to control screen brightness.
