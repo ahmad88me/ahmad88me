@@ -88,6 +88,10 @@ Here are some ideas to get you started:
 -->
 
 
+## Blog posts
+* [Crescendo Attacks: How Real-World LLMs Respond to Gradual Prompt Attacks](https://neuraltrust.ai/blog/crescendo-gradual-prompt-attacks)
+
+
 ## Contributions to Open Source
 * [PyGithub](https://github.com/PyGithub/PyGithub). GitHub APIs
 * [django-cities-light](https://github.com/yourlabs/django-cities-light). A light Django package based on django-cities.
