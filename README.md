@@ -89,7 +89,14 @@ Here are some ideas to get you started:
 
 
 ## Blog posts
+* [Echo Chamber: A Context-Poisoning Jailbreak That Bypasses LLM Guardrails](https://neuraltrust.ai/blog/echo-chamber-context-poisoning-jailbreak)
 * [Crescendo Attacks: How Real-World LLMs Respond to Gradual Prompt Attacks](https://neuraltrust.ai/blog/crescendo-gradual-prompt-attacks)
+
+
+## News
+* [The Hacker News: Echo Chamber Jailbreak Tricks](https://thehackernews.com/2025/06/echo-chamber-jailbreak-tricks-llms-like.html)
+* [Security Week: New Echo Chamber Jailbreak](https://www.securityweek.com/new-echo-chamber-jailbreak-bypasses-ai-guardrails-with-ease/)
+* [Dark Reading: Echo Chamber Attack AI GuardRails](https://www.darkreading.com/cloud-security/echo-chamber-attack-ai-guardrails) * [Cybver Security News: Echo Chamber Attack](https://cybersecuritynews.com/echo-chamber-attack/amp/) * [SparTechSoftware: New Echo Chamber LLM Jailbreak](https://www.spartechsoftware.com/cybersecurity-news/new-echo-chamber-llm-jailbreak-method-employs-sterring-seeds-to-evade-safety-guardrails/)  
 
 
 ## Contributions to Open Source
