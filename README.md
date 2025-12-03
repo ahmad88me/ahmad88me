@@ -110,8 +110,7 @@ Here are some ideas to get you started:
 * [The Hacker News: Echo Chamber Jailbreak Tricks](https://thehackernews.com/2025/06/echo-chamber-jailbreak-tricks-llms-like.html)
 * [Security Week: New Echo Chamber Jailbreak](https://www.securityweek.com/new-echo-chamber-jailbreak-bypasses-ai-guardrails-with-ease/)
 * [Dark Reading: Echo Chamber Attack AI GuardRails](https://www.darkreading.com/cloud-security/echo-chamber-attack-ai-guardrails) * [Cybver Security News: Echo Chamber Attack](https://cybersecuritynews.com/echo-chamber-attack/amp/) * [SparTechSoftware: New Echo Chamber LLM Jailbreak](https://www.spartechsoftware.com/cybersecurity-news/new-echo-chamber-llm-jailbreak-method-employs-sterring-seeds-to-evade-safety-guardrails/) * [Webasha: Researchers Jailbreak Elon Musk’s Grok-4 AI Within 48 Hours | AI Security at Risk?](https://www.webasha.com/blog/researchers-jailbreak-elon-musks-grok-4-ai-within-48-hours-ai-security-at-risk)
-* [Cyber Secyrity News: Grok-4 Jailbreaked With Combination of Echo Chamber and Crescendo Attack
-](https://cybersecuritynews.com/grok-4-jailbreaked/)
+* [Cyber Secyrity News: Grok-4 Jailbreaked With Combination of Echo Chamber and Crescendo Attack](https://cybersecuritynews.com/grok-4-jailbreaked/)
 * [Grok-4 AI上线48小时即遭新型组合越狱攻击攻破](https://blog.csdn.net/seoppg/article/details/153892648)
 * [Richard Staynings: Grok-4 AI model falls to jailbreak techniques, reveals NeuralTrust](https://www.linkedin.com/posts/richardstaynings_xais-newly-launched-grok-4-is-already-showing-activity-7350972274818076675-I8M7?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy)
 * [Cyber Press: Grok-4 Jailbroken Using Echo Chamber and Crescendo Exploit Combo](https://cyberpress.org/grok-4-jailbroken-exploit/)
