@@ -102,6 +102,10 @@ Here are some ideas to get you started:
 ### Medium
 * [How Ads might join the AI Assistants Party](https://medium.com/@runzbuzz/how-ads-might-join-the-ai-assistants-party-bb7dac79d1c0)
 
+### Linkedin
+* [Are ads coming to the AI Assistants world?](https://www.linkedin.com/posts/runzbuzz_advertising-on-ai-assistants-is-coming-but-activity-7405163105300807681-vD0A?utm_source=github&utm_medium=member_desktop&rcm=ACoAAApGdIQB_uVRyNRyy7RB_lRQG2sp322lSQ8)
+
+
 ### Runzbuzz
 [Runzbuzz Blog](https://blog.runzbuzz.com/)
 
